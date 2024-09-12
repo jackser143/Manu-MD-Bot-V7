@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "", //Add Your Session id
-ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
-ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
-MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
-MODE : process.env.MODE || "public",    
+ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/f89a97a65465401faf323.jpg",
+ALIVE_MSG : process.env.ALIVE_MSG || "me!! ivde und makkale",
+MENU_IMG : process.env.MENU_IMG || "https://i.imgur.com/cqBiIhM.mp4",
+MODE : process.env.MODE || "private",    
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_BIO: process.env.AUTO_BIO || "true",
 READ_CMD: process.env.READ_CMD || "true",
